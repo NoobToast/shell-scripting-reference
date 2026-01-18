@@ -1,4 +1,4 @@
-Here are the main POSIX shell built-in utilities:
+BUILT IN SHELL UTILITIES
 
 ## Job Control & Process Management
 - **`bg`** - Resume suspended jobs in background
